@@ -10,7 +10,7 @@ Old version left-side, new version right-side (only a partial CAD of new rear dr
 
 
 
-The older design was a Voron0, TinyM configuration (meaning the main frame is made of 2020 extrusions over the 1515 default ones, and all relevant harder changed to match this),
+The older design was a Voron0, TinyM configuration (meaning the main frame is made of 2020 extrusions over the 1515 default ones, and all relevant hardware changed to match this),
 furthurmore, I used a 100x100mm print bed with 4 corner levelling, a klicky probe (https://github.com/jlas1/Klicky-Probe), bowden extruder, octopus pro board and an old ender3 power supply.
 
 This setup worked well in some aspects. 
@@ -39,10 +39,13 @@ The NEW design immediate changes (goal: functioning by end of November)
 - better printer feet (same as RXL)
 
 Changes later on (In order of priority)
+- Camera to monitor prints
 - 3 point bed levelling (new mainboard needed though)
 - Enclosure (acrylic needs to be cut down)
 - Tulip Mod (not sold on the benefits of this yet, so this mod is a maybe)
-- Screen 
+- Screen added.
+- 100mmx100mm super fast bed switchout ability?
+- Conveyor for print bed switching
 
 
 Since this printer will act as a secondary option to my RXL, many design goals are the same, nd based on the success of the RXL.
