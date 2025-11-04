@@ -17,15 +17,16 @@ This setup worked well in some aspects.
 - It could achieve very high speeds (40k accel, at 450mm/s)
 - Heated up extrordinairly quickly (bed heated in 17 seconds to 70C [RXL heats in ~5 minutes]),
 - Was fully enclosed (helped with noise and heated chamber)
-- And very compact (everything fit within the dedicated frame
-- 
+- Very compact (everything fit within the dedicated frame
+
 However, Some things did not work well:
 - The 4 point levellng of the bed overconstrained it (3 points make a plane, 4 points bend it)
 - The bed warped severely due to its 2.5mm thickness, but 250w heating power.
 - The klicky probe, Z motor tuning, and overall software related tuning was not done properly (this combined with the above points made first layers extremely inconsistent).
 - Colour cordination and asthetics were non existant (parts were printed out of whatever colour was nearby)
 
-
+  
+  
 The NEW design immediate changes (goal: functioning by end of November)
 - 2040 extrusions on corners
 - Aluminum braces at front (will act as reinforcment and also help square the frame)
