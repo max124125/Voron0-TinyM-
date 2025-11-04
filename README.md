@@ -13,7 +13,9 @@ This setup worked well in some aspects.
 However, Some things did not work well:
 - The 4 point levellng of the bed overconstrained it (3 points make a plane, 4 points bend it)
 - The bed warped severely due to its 2.5mm thickness, but 250w heating power.
-- The klicky probe and Z motor tuning was not done properly (this combined with the above points made first layers extremely inconsistent).
+- The klicky probe, Z motor tuning, and overall software related tuning was not done properly (this combined with the above points made first layers extremely inconsistent).
+- Colour cordination and asthetics were non existant (parts were printed out of whatever colour was nearby)
 
 
-The NEW design
+The NEW design changes:
+- New build volume (120mm x 120(+20)mm x 115mm) 
