@@ -17,13 +17,19 @@ However, Some things did not work well:
 - Colour cordination and asthetics were non existant (parts were printed out of whatever colour was nearby)
 
 
-The NEW design immediate changes (end of November)
+The NEW design immediate changes (goal: functioning by end of November)
 - 2040 extrusions on corners
 - Aluminum braces at front (will act as reinforcment and also help square the frame)
 - New build volume (120mm x 120mm(+20mm) x 115mm [extra room for nozzle wiper on Y])
+- Proper 8mm superflat Aluminum MIC6 voron0 bed (no more warping, however takes ~3mins too heat up)
 - Colour cordinated parts (Black and Blue themed, with 2020 inserts)
 - Higher flow hotend (34.5mm to 42.5mm melting zone [up to 70mm/s3])
 - Orbiter direct drive extruder (option to use it for bowden, but will greatly help quality either way)
 - Compact fanless 24v power supply (Reduces noise and leaves more room in electonics bay)
+- better printer feet
 
-Changes later on
+Changes later on (In order of priority)
+- 3 point bed levelling (new mainboard needed though)
+- Enclosure (acrylic needs to be cut down)
+- Tulip Mod (not sold on the benefits of this yet, so this mod is a maybe)
+- Screen 
