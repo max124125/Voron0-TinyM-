@@ -4,8 +4,8 @@ An older Voron0 like project that I am rebuilding from the ground up.
 Old version left-side, new version right-side (only a partial CAD of new rear drives until physical frame constructed).
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/4441eda1-e2fe-4d38-ae90-1ebbe2facb45" width="350" />
-  <img src="https://github.com/user-attachments/assets/2802e226-4814-4c2b-bfb2-39cb0906b758" width="400" /> 
+  <img src="https://github.com/user-attachments/assets/4441eda1-e2fe-4d38-ae90-1ebbe2facb45" width="320" />
+  <img src="https://github.com/user-attachments/assets/2802e226-4814-4c2b-bfb2-39cb0906b758" width="440" /> 
 </p>
 
 
