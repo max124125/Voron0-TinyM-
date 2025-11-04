@@ -1,13 +1,14 @@
 # Voron0-TinyM-
 An older Voron0 like project that I am rebuilding from the ground up.
 
-Old version left-side, new version right-side.
+Old version left-side, new version right-side (only a partial CAD until physical frame constructed).
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/953e1bf3-b50e-4102-a9d9-cd89cebc8561" width="350" />
-  <img src="https://github.com/user-attachments/assets/ff4f55d0-1933-4bb7-ae87-efda250b6075" width="352" /> 
+  <img src="https://github.com/user-attachments/assets/4441eda1-e2fe-4d38-ae90-1ebbe2facb45" width="350" />
+  <img src="https://github.com/user-attachments/assets/2802e226-4814-4c2b-bfb2-39cb0906b758" width="352" /> 
 </p>
- 
+
+
 
 The older design was a Voron0, TinyM configuration (meaning the main frame is made of 2020 extrusions over the 1515 default ones, and all relevant harder changed to match this),
 furthurmore, I used a 100x100mm print bed with 4 corner levelling, a klicky probe (https://github.com/jlas1/Klicky-Probe), bowden extruder, octopus pro board and an old ender3 power supply.
