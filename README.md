@@ -17,29 +17,41 @@ This setup worked well in some aspects.
 - It could achieve very high speeds (40k accel, at 450mm/s)
 - Heated up extrordinairly quickly (bed heated in 17 seconds to 70C [RXL heats in ~5 minutes]),
 - Was fully enclosed (helped with noise and heated chamber)
-- Very compact (everything fit within the dedicated frame
-
+- Very compact (everything fit within the dedicated frame)
+  
 However, Some things did not work well:
 - The 4 point levellng of the bed overconstrained it (3 points make a plane, 4 points bend it)
-- The bed warped severely due to its 2.5mm thickness, but 250w heating power.
-- The klicky probe, Z motor tuning, and overall software related tuning was not done properly (this combined with the above points made first layers extremely inconsistent).
-- Colour cordination and asthetics were non existant (parts were printed out of whatever colour was nearby)
+- The bed warped severely due to its 2.5mm thickness, but 250W heating power.
+- The klicky probe, 4 point levelling, bed meshing, and overall software related tuning for the first layer was not done properly (this combined with the above points made first layers extremely inconsistent).
+- Colour cordination and asthetics were non existant (parts were printed out of whatever colour was nearby [photo has 7 different filaments in it])  
 
   
-  
+
 The NEW design immediate changes (goal: functioning by end of November)
 - 2040 extrusions on corners
 - Aluminum braces at front (will act as reinforcment and also help square the frame)
 - New build volume (120mm x 120mm(+20mm) x 115mm [extra room for nozzle wiper on Y])
 - Proper 8mm superflat Aluminum MIC6 voron0 bed (no more warping, however takes ~3mins too heat up)
-- Colour cordinated parts (Black and Blue themed, with 2020 inserts)
+- Colour cordinated parts (Black and Blue themed, with 2020 slot inserts)
 - Higher flow hotend (34.5mm to 42.5mm melting zone [up to 70mm/s3])
 - Orbiter direct drive extruder (option to use it for bowden, but will greatly help quality either way)
 - Compact fanless 24v power supply (Reduces noise and leaves more room in electonics bay)
-- better printer feet
+- better printer feet (same as RXL)
 
 Changes later on (In order of priority)
 - 3 point bed levelling (new mainboard needed though)
 - Enclosure (acrylic needs to be cut down)
 - Tulip Mod (not sold on the benefits of this yet, so this mod is a maybe)
 - Screen 
+
+
+Since this printer will act as a secondary option to my RXL, many design goals are the same, nd based on the success of the RXL.
+Since many of the physical changes have been listed above, below will be more functionality related goals:
+- Same print speeds as RXL (will be tuned to reach much higher speeds later on)
+- Same absolute reliability (+99%, this printer should be a "print & forget" style)
+- Complete wire managment
+- Fully enclosed and able to print ABS flawlessly.
+- Quiet at high speeds (if possible)
+
+
+
