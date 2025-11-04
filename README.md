@@ -17,5 +17,13 @@ However, Some things did not work well:
 - Colour cordination and asthetics were non existant (parts were printed out of whatever colour was nearby)
 
 
-The NEW design changes:
-- New build volume (120mm x 120(+20)mm x 115mm) 
+The NEW design immediate changes (end of November)
+- 2040 extrusions on corners
+- Aluminum braces at front (will act as reinforcment and also help square the frame)
+- New build volume (120mm x 120mm(+20mm) x 115mm [extra room for nozzle wiper on Y])
+- Colour cordinated parts (Black and Blue themed, with 2020 inserts)
+- Higher flow hotend (34.5mm to 42.5mm melting zone [up to 70mm/s3])
+- Orbiter direct drive extruder (option to use it for bowden, but will greatly help quality either way)
+- Compact fanless 24v power supply (Reduces noise and leaves more room in electonics bay)
+
+Changes later on
