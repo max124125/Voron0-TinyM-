@@ -5,10 +5,10 @@ Old version left-side, new version right-side (still under construction.
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4441eda1-e2fe-4d38-ae90-1ebbe2facb45" width="320" />
-  <img src="https://github.com/user-attachments/assets/9a008e4d-910e-4875-98b6-1d0171895720" width="440" /> 
+  <img src="https://github.com/user-attachments/assets/ff80689e-2d5e-4457-b1dc-5f9ed06454be" width="440" /> 
 </p>
 
-
+https://github.com/user-attachments/assets/9a008e4d-910e-4875-98b6-1d0171895720
 
 The older design was a Voron0, TinyM configuration (meaning the main frame is made of 2020 extrusions over the 1515 default ones, and all relevant hardware changed to match this),
 furthurmore, I used a 100x100mm print bed with 4 corner levelling, a klicky probe (https://github.com/jlas1/Klicky-Probe), bowden extruder, octopus pro board and an old ender3 power supply.
