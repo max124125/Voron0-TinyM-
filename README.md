@@ -25,7 +25,8 @@ However, Some things did not work well:
 
 Breakdown of the printer right before being dismantled (please note many of the changes I mentioned in the video are no longer relevant, this github has the true design goals): https://youtube.com/shorts/kxB7ypKhO4k
 Random Printing video I had on hand: https://youtube.com/shorts/vAiskhb0QYo?feature=share
-  
+Many parts of the older build went to the RXL printer including the 24v 15a power supply, Octopus Pro board, TMC2209 motor drivers, Custom Hotend, etc.
+
 
 The NEW design immediate changes (goal: functioning by end of November)
 - 2040 extrusions on corners
