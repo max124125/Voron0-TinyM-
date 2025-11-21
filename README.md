@@ -58,4 +58,6 @@ Since many of the physical changes have been listed above, below will be more fu
 - Quiet at high speeds (if possible)
 
 
-
+Rebuild started, November 1
+Current bottlnecks: 
+- Z-axis setup with 3 point levelling.
