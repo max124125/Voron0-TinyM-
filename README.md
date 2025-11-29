@@ -1,7 +1,7 @@
 # Voron0-TinyM-
 An older Voron0 like project that I am rebuilding from the ground up.
 
-Old version left-side, new version right-side (still under construction.
+Old version left-side, new version right-side (still under construction)
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4441eda1-e2fe-4d38-ae90-1ebbe2facb45" width="320" />
