@@ -39,7 +39,7 @@ The NEW design immediate changes (project started November 1st, goal is function
 - Compact fanless 24v power supply (Reduces noise and leaves more room in electonics bay)
 - better printer feet (same as RXL)
 - Camera to monitor prints
-- 3 point bed levelling (new mainboard needed though)  
+- 3 point bed levelling 
   
 Later updates:  
 - Enclosure (acrylic needs to be cut down)
