@@ -15,7 +15,7 @@ This setup worked well in some aspects.
 - It could achieve very high speeds (40k accel, at 450mm/s with motors at 1.2a and 24v)
 - Heated up extrordinairly quickly (bed heated in 17 seconds to 70C [RXL heats in ~5 minutes]),
 - Was fully enclosed (helped with noise and heated chamber)
-- Very compact (everything fit within the dedicated frame)
+- Very compact (everything fit within the dedicated frame, except the extruder)
   
 However, Some things did not work well:
 - The 4 point levellng of the bed overconstrained it (3 points make a plane, 4 points bend it)
