@@ -21,7 +21,7 @@ However, Some things did not work well:
 - The 4 point levellng of the bed overconstrained it (3 points make a plane, 4 points bend it)
 - The bed warped severely due to its 2.5mm thickness, but 250W heating power.
 - The klicky probe, 4 point levelling, bed meshing, and overall software related tuning for the first layer was not done properly (this combined with the above points made first layers extremely inconsistent).
-- Colour cordination and asthetics were non existant (parts were printed out of whatever colour was nearby [photo has 7 different filaments in it])  
+- Colour cordination and asthetics were non existant (parts were printed out of whatever colour was nearby [photo has parts from 7 different filaments in it])  
 
 Breakdown of the printer right before being dismantled (please note many of the changes I mentioned in the video are no longer relevant, this github has the true design goals): https://youtube.com/shorts/kxB7ypKhO4k
 Random Printing video I had on hand: https://youtube.com/shorts/vAiskhb0QYo?feature=share
