@@ -5,7 +5,7 @@ Old version left-side, new version right-side (still under construction.
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/4441eda1-e2fe-4d38-ae90-1ebbe2facb45" width="320" />
-  <img src="https://github.com/user-attachments/assets/9a008e4d-910e-4875-98b6-1d0171895720" width="440" /> 
+  <img src="https://github.com/user-attachments/assets/264cd8ba-e761-49a3-9ffa-67f99cb4d31b" width="440" /> 
 </p>
 
 The older design was a Voron0, TinyM configuration (meaning the main frame is made of 2020 extrusions over the 1515 default ones, and all relevant hardware changed to match this),
