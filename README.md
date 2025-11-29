@@ -28,9 +28,9 @@ Random Printing video I had on hand: https://youtube.com/shorts/vAiskhb0QYo?feat
 Many parts of the older build went to the RXL printer including the 24v 15a power supply, Octopus Pro board, TMC2209 motor drivers, Custom Hotend, etc.
 
 
-The NEW design immediate changes (goal: functioning by end of November)
+The NEW design immediate changes (project started November 1st, goal is functioning by Mid december)
 - 2040 extrusions on corners
-- Aluminum braces at front (will act as reinforcment and also help square the frame)
+- Aluminum braces at front and back (will act as reinforcment and also help square the frame)
 - New build volume (120mm x 120mm(+20mm) x 115mm [extra room for nozzle wiper on Y])
 - Proper 8mm superflat Aluminum MIC6 voron0 bed (no more warping, however takes ~3mins too heat up)
 - Colour cordinated parts (Black and Blue themed, with 2020 slot inserts)
@@ -38,10 +38,10 @@ The NEW design immediate changes (goal: functioning by end of November)
 - Orbiter direct drive extruder (option to use it for bowden, but will greatly help quality either way)
 - Compact fanless 24v power supply (Reduces noise and leaves more room in electonics bay)
 - better printer feet (same as RXL)
-
-Changes later on (In order of priority)
 - Camera to monitor prints
-- 3 point bed levelling (new mainboard needed though)
+- 3 point bed levelling (new mainboard needed though)  
+  
+Later updates:  
 - Enclosure (acrylic needs to be cut down)
 - Tulip Mod (not sold on the benefits of this yet, so this mod is a maybe)
 - Screen added.
@@ -49,7 +49,7 @@ Changes later on (In order of priority)
 - Conveyor for print bed switching
 
 
-Since this printer will act as a secondary option to my RXL, many design goals are the same, nd based on the success of the RXL.
+Since this printer will act as a secondary option to my RXL, many design goals are the same, and based on the success of the RXL.
 Since many of the physical changes have been listed above, below will be more functionality related goals:
 - Same print speeds as RXL (will be tuned to reach much higher speeds later on)
 - Same absolute reliability (+99%, this printer should be a "print & forget" style)
@@ -60,4 +60,5 @@ Since many of the physical changes have been listed above, below will be more fu
 
 Rebuild started, November 1
 Current bottlnecks: 
-- Z-axis setup with 3 point levelling.
+- Wiring
+- Klicky Probe
