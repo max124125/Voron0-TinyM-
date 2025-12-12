@@ -70,9 +70,9 @@ Current updates and next steps:
 
 
 
-Speed Testing 
-|  AB Motor Power  | Par1 -> Par2(at step loss)  |  Notes  |
-|       :-----:         |       :---:      |
+Speed Testing   
+|  AB Motor Power  | Par1 -> Par2(at step loss)  |  Notes  |  
+|       :-----:         |       :---:      |       :---:      |  
 |  24v@0.8a  | 10k -> 600mm/s  | remarkably quiet  |
 |  24v@0.8a  | 20k -> ?mm/s  | ...   |
 |  24v@0.8a  | 30k -> ?mm/s  | ...   |
