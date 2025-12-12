@@ -58,7 +58,10 @@ Since many of the physical changes have been listed above, below will be more fu
 - Quiet at high speeds (if possible)
 
 
-Rebuild started, November 1
-Current bottlnecks: 
-- Wiring
-- Klicky Probe
+Rebuild started: November 1.
+First print: December 7.
+Current updates:
+-Nozzle wiper and electronics pannels to be printed next.
+-All cable managment done (for now)
+-Already very reliable, with perfect first layers, and good print quality.
+-Currently have it printing about 10% faster than RXL, but will be tuning to continue increasing speed.
