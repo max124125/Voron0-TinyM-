@@ -60,8 +60,10 @@ Since many of the physical changes have been listed above, below will be more fu
 
 Rebuild started: November 1.  
 First print: December 7.  
-Current updates:  
- - Nozzle wiper and electronics pannels to be printed next.  
- - All cable managment done (for now)  
+Current updates and next steps:  
+ - All cable managment done and very clean (for now)  
  - Already very reliable, with perfect first layers, and good print quality.  
  - Currently have it printing about 10% faster than RXL, but will be tuning to continue increasing speed.  
+ - Nozzle wiper, purge shoot and electronics pannels to be printed next.
+ - Pi Camera to be added
+ - 
